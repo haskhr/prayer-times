@@ -1,4 +1,4 @@
-#!/home/haskhr/Documents/coding/prayer-times/prayer-times/bin/python
+#!/home/haskhr/Documents/coding/prayers/prayers/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
